@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/english-helper/static/css/main.cdb058f2.css",
+    "main.js": "/english-helper/static/js/main.7106fd2a.js",
+    "static/media/fon.mp3": "/english-helper/static/media/fon.b679ad1b6155f0ced313.mp3",
+    "static/media/contact.gif": "/english-helper/static/media/contact.5545d038b3924ec370bb.gif",
+    "static/media/watch.gif": "/english-helper/static/media/watch.cf950fde70f38b7b6e19.gif",
+    "static/media/enter.gif": "/english-helper/static/media/enter.b1e9b6c0d0a9bab731ff.gif",
+    "static/media/exit.gif": "/english-helper/static/media/exit.17210c277e1b5f9ecf90.gif",
+    "static/media/winner.mp3": "/english-helper/static/media/winner.5d71b878ac0ad1065a9d.mp3",
+    "static/media/right.mp3": "/english-helper/static/media/right.e68e9fcaed4389eb2356.mp3",
+    "static/media/wrong.mp3": "/english-helper/static/media/wrong.6aadceab1484941e56cf.mp3",
+    "static/media/click.mp3": "/english-helper/static/media/click.49894554cbc33c74d31b.mp3",
+    "index.html": "/english-helper/index.html",
+    "main.cdb058f2.css.map": "/english-helper/static/css/main.cdb058f2.css.map",
+    "main.7106fd2a.js.map": "/english-helper/static/js/main.7106fd2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb058f2.css",
+    "static/js/main.7106fd2a.js"
+  ]
+}
