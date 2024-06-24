@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/english-helper/static/css/main.cdb058f2.css",
-    "main.js": "/english-helper/static/js/main.7106fd2a.js",
+    "main.css": "/english-helper/static/css/main.9f213515.css",
+    "main.js": "/english-helper/static/js/main.99de93fb.js",
     "static/media/fon.mp3": "/english-helper/static/media/fon.b679ad1b6155f0ced313.mp3",
     "static/media/contact.gif": "/english-helper/static/media/contact.5545d038b3924ec370bb.gif",
     "static/media/watch.gif": "/english-helper/static/media/watch.cf950fde70f38b7b6e19.gif",
@@ -12,11 +12,11 @@
     "static/media/wrong.mp3": "/english-helper/static/media/wrong.6aadceab1484941e56cf.mp3",
     "static/media/click.mp3": "/english-helper/static/media/click.49894554cbc33c74d31b.mp3",
     "index.html": "/english-helper/index.html",
-    "main.cdb058f2.css.map": "/english-helper/static/css/main.cdb058f2.css.map",
-    "main.7106fd2a.js.map": "/english-helper/static/js/main.7106fd2a.js.map"
+    "main.9f213515.css.map": "/english-helper/static/css/main.9f213515.css.map",
+    "main.99de93fb.js.map": "/english-helper/static/js/main.99de93fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdb058f2.css",
-    "static/js/main.7106fd2a.js"
+    "static/css/main.9f213515.css",
+    "static/js/main.99de93fb.js"
   ]
 }
